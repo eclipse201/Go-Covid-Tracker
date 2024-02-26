@@ -1,7 +1,7 @@
 Covid Information Project  
 
 Goal:  
--Create a small golang project to display covid information  
+-Create a small Go project to display covid information  
 -2 hour time limit  
 
 Technologies:  
