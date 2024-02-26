@@ -1,5 +1,9 @@
 Covid Information Project  
 
+Goal:  
+-Create a small golang project to display covid information  
+-2 hour time limit  
+
 Technologies:  
 -Project created using Golang version 1.17.7  
 -Tested on Windows 11 using Google Chrome  
